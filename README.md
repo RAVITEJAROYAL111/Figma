@@ -29,7 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
-HOME
+```
 <div style="width: 419px; height: 926px; position: relative; background: white">
   <div style="left: 50px; top: 56px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 400; word-wrap: break-word"> </div>
   <div style="width: 428px; height: 500px; left: -9px; top: 432px; position: absolute; background: rgba(129.61, 94.96, 62.97, 0.79)"></div>
@@ -56,6 +56,8 @@ HOME
   <div style="width: 366px; height: 45px; left: 26px; top: 123px; position: absolute; text-align: center; color: #761212; font-size: 25px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">CULTURAL DAY EVENTS </div>
   <div style="width: 346px; height: 50px; left: 26px; top: 311px; position: absolute; text-align: center; color: black; font-size: 23px; font-family: Inter; font-weight: 500; word-wrap: break-word">April 24-30 | Off-Stage events</div>
 </div>
+`````
+```
 <div style="width: 428px; height: 926px; position: relative; background: rgba(118.56, 46.93, 68.42, 0.64)">
   <img style="width: 428px; height: 216px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/428x216" />
   <img style="width: 155px; height: 56px; left: 9px; top: 9px; position: absolute; border-radius: 220px" src="https://via.placeholder.com/155x56" />
@@ -91,6 +93,8 @@ HOME
   </div>
   <div style="width: 494px; height: 89px; left: -66px; top: 292px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">ADZAP - April 24</div>
 </div>
+`````
+```
 <div style="width: 428px; height: 926px; position: relative; background: rgba(118.56, 46.93, 68.42, 0.64)">
   <img style="width: 404px; height: 63px; left: 12px; top: 23px; position: absolute" src="https://via.placeholder.com/404x63" />
   <img style="width: 155px; height: 56px; left: 30px; top: 96px; position: absolute; border-radius: 220px" src="https://via.placeholder.com/155x56" />
@@ -115,10 +119,8 @@ HOME
   <div style="width: 187px; height: 52px; left: 109px; top: 739px; position: absolute; background: #0698AC; border-radius: 220px"></div>
   <div style="width: 144px; height: 45px; left: 125px; top: 742px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">REGISTER</div>
 </div>
-THANK YOU
-<img style="width: 525px; height: 102px" src="https://via.placeholder.com/525x102" />
-<div style="color: white; font-size: 36px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">Chase Your Dreams</div>
-<img style="width: 525px; height: 884px" src="https://via.placeholder.com/525x884" />
+```
+
 # OUTPUT:
 <img width="573" height="274" alt="image" src="https://github.com/user-attachments/assets/0f79b4ea-b676-4b2f-859c-9934241b3002" />
 
