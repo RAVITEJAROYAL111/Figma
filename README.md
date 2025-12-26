@@ -120,6 +120,18 @@ Figma
   <div style="width: 144px; height: 45px; left: 125px; top: 742px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">REGISTER</div>
 </div>
 ```
+```
+<div style="width: 411px; height: 938px; position: relative; background: white">
+  <img style="width: 411px; height: 938px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/411x938" />
+  <img style="width: 399px; height: 63px; left: 12px; top: 23px; position: absolute" src="https://via.placeholder.com/399x63" />
+  <img style="width: 300px; height: 97px; left: 56px; top: 148px; position: absolute" src="https://via.placeholder.com/300x97" />
+  <div style="width: 394px; height: 152px; left: 11px; top: 317px; position: absolute; text-align: center; color: white; font-size: 25px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">Thank you for registering the events.  we are eagerly waiting for your   participation for the same</div>
+  <div style="width: 362px; height: 141px; left: 30px; top: 589px; position: absolute; background: #7F4557; border: 1px black solid; backdrop-filter: blur(4px)"></div>
+  <div style="left: 49px; top: 686px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">Contact: 9973522808</div>
+  <div style="left: 38px; top: 646px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">Email : priyaacelenza2k24@saveetha.in</div>
+  <div style="left: 60px; top: 598px; position: absolute; text-align: center; color: #D9D9D9; font-size: 25px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word"> FOR DETAILS CONTACT </div>
+</div>
+```
 
 # OUTPUT:
 <img width="573" height="274" alt="image" src="https://github.com/user-attachments/assets/0f79b4ea-b676-4b2f-859c-9934241b3002" />
