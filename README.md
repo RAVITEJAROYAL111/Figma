@@ -81,10 +81,8 @@ THANK YOU
 <img style="width: 525px; height: 884px" src="https://via.placeholder.com/525x884" />
 ```
 # OUTPUT:
-<img width="262" height="472" alt="image" src="https://github.com/user-attachments/assets/5899095e-c4c5-4f43-84a7-2c80bbf02269" />
-<img width="178" height="365" alt="image" src="https://github.com/user-attachments/assets/a01e1ab0-a6b2-4b2b-b4f7-025966050dd1" />
-<img width="197" height="355" alt="image" src="https://github.com/user-attachments/assets/89276c4f-0384-422a-a02c-edcd4619d8bf" />
-<img width="181" height="365" alt="image" src="https://github.com/user-attachments/assets/9ce23678-0865-431e-844b-255c820d2c97" />
+<img width="573" height="274" alt="image" src="https://github.com/user-attachments/assets/0f79b4ea-b676-4b2f-859c-9934241b3002" />
+
 
 
 # RESULT:
